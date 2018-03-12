@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">English Pronouciation</string>
+    <string name="title_google">Google</string>
+    <string name="title_sozo">Sozo</string>
+    <string name="title_other">Other</string>
+
+    <string name="under_development">Under Development</string>
+    <string name="nav_item_translator">Google Translator</string>
+    <string name="nav_item_sozo_exchange">Sozo Exchange</string>
+    <string name="nav_item_other">Other Tool</string>
+
+</resources>
